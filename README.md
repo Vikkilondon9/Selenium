@@ -21,5 +21,5 @@ The result looks as following:
 
 
 ## LICENSE ##
-Test
+This is Version Control
 [MIT License](https://raw.githubusercontent.com/leftstick/selenium-example/master/LICENSE)
